@@ -1,1 +1,1 @@
-# EpicArchery-Day2
+# project-c23-template
